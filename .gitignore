@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+fantasy_baseball_chunked_embeddings.json
+fantasy_baseball_chunked_embeddings.csv
+.DS_Store
