@@ -19,3 +19,4 @@ A single-file Python project for comparing chunking strategies on fantasy baseba
    ```bash
    python3 chunking_embeddings_fantasy_baseball.py
    ```
+# fantasy-baseball
