@@ -1,0 +1,16 @@
+sample_id,text,category,source
+cease_matchup,"Dylan Cease, Toronto Blue Jays (@ Angels, vs Guardians)",pitcher_matchup_line,article_1
+cease_outlook,"Cease has been lights out this season, posting a 1.74 ERA over 20.2 innings in his first four starts.",two_start_pitcher_note,article_1
+mclean_matchup,"Nolan McLean, New York Mets (vs Twins, vs Rockies)",pitcher_matchup_line,article_1
+mclean_outlook,"McLean gets two optimal teams next week, with the Twins ranking 10th in strikeouts and the Rockies ranking first.",two_start_pitcher_note,article_1
+must_start_rank,"Must-start, all formats: Nolan McLean SP NYM vs Minnesota and vs Colorado.",two_start_ranking,article_2
+points_league_rank,Better left for points leagues: Aaron Nola SP PHI at Cubs and at Braves.,two_start_ranking,article_2
+fpts_projection_high,"April 26 vs Rockies - Nolan McLean (R), 16.0 FPTS",projected_fantasy_points,article_3
+fpts_projection_mid,"April 28 vs Tigers - Reynaldo Lopez (R), 8.1 FPTS",projected_fantasy_points,article_3
+fpts_projection_low,"May 1 at Rockies - Bryce Elder (R), 0.7 FPTS",projected_fantasy_points,article_3
+streamer_definition,"The Streamer tier includes pitchers who can produce decent stats, but the matchups are not ideal, so start at your own risk.",strategy_note,article_1
+avoid_definition,The Avoid tier includes pitchers with terrible matchups or who have been pitching badly and can be left on the bench.,strategy_note,article_1
+scoring_rules,"ESPN standard scoring: 2 points per win, -2 per loss, 3 per inning pitched, 1 per strikeout, -1 per hit or walk allowed, and -2 per earned run allowed.",scoring_rules,article_3
+ad_text,The video player is currently playing an ad. You can skip the ad in 5 sec with a mouse or keyboard.,out_of_scope_ui_text,article_2
+site_nav,More great Fantasy Baseball Analysis: Fantasy Baseball Waiver Wire | Weekly SP Rankings | Pitching Streamers | Two-Start Pitchers | Lineup Analysis | MLB Injury Report.,out_of_scope_navigation_text,article_1
+conversation_prompt,Join the Conversation,out_of_scope_ui_text,article_2
