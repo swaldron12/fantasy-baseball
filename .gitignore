@@ -1,4 +1,9 @@
 .venv/
+.env
+.env.*
+!.env.example
+.cache/
+.pytest_cache/
 __pycache__/
 *.pyc
 fantasy_baseball_chunked_embeddings.json

@@ -1,0 +1,102 @@
+{
+  "feature_count": 31,
+  "train_rows": 6444,
+  "validation_rows": 1194,
+  "test_rows": 1939,
+  "train_weeks": 16,
+  "validation_weeks": 3,
+  "test_weeks": 5,
+  "target_mean": 6.473843583585054e-06,
+  "target_std": 2.439570926304329,
+  "baseline_validation_mae": 1.8029933682563857,
+  "model_validation_mae": 1.7878803666686212,
+  "baseline_test_mae": 1.8432302948551353,
+  "model_test_mae": 1.8276943362680418,
+  "validation_r2": 0.08543068427974954,
+  "test_r2": 0.06713667989867067,
+  "validation_correlation": 0.30089813066787985,
+  "test_correlation": 0.26366136774691545,
+  "validation_direction_accuracy": 0.541038525963149,
+  "test_direction_accuracy": 0.5296544610624033,
+  "best_params": {
+    "learning_rate": 0.03,
+    "max_iter": 100,
+    "max_leaf_nodes": 15
+  },
+  "tuning_results": [
+    {
+      "learning_rate": 0.03,
+      "max_iter": 100,
+      "max_leaf_nodes": 15,
+      "validation_mae": 1.7878803666686212
+    },
+    {
+      "learning_rate": 0.03,
+      "max_iter": 100,
+      "max_leaf_nodes": 31,
+      "validation_mae": 1.789752770027898
+    },
+    {
+      "learning_rate": 0.03,
+      "max_iter": 200,
+      "max_leaf_nodes": 15,
+      "validation_mae": 1.7943470664651886
+    },
+    {
+      "learning_rate": 0.03,
+      "max_iter": 200,
+      "max_leaf_nodes": 31,
+      "validation_mae": 1.8030613406377083
+    },
+    {
+      "learning_rate": 0.06,
+      "max_iter": 100,
+      "max_leaf_nodes": 15,
+      "validation_mae": 1.7958443676978721
+    },
+    {
+      "learning_rate": 0.06,
+      "max_iter": 100,
+      "max_leaf_nodes": 31,
+      "validation_mae": 1.809819869814923
+    },
+    {
+      "learning_rate": 0.06,
+      "max_iter": 200,
+      "max_leaf_nodes": 15,
+      "validation_mae": 1.8148290554766762
+    },
+    {
+      "learning_rate": 0.06,
+      "max_iter": 200,
+      "max_leaf_nodes": 31,
+      "validation_mae": 1.8218992451090394
+    },
+    {
+      "learning_rate": 0.1,
+      "max_iter": 100,
+      "max_leaf_nodes": 15,
+      "validation_mae": 1.809464177369365
+    },
+    {
+      "learning_rate": 0.1,
+      "max_iter": 100,
+      "max_leaf_nodes": 31,
+      "validation_mae": 1.8339136968733818
+    },
+    {
+      "learning_rate": 0.1,
+      "max_iter": 200,
+      "max_leaf_nodes": 15,
+      "validation_mae": 1.8303303798401647
+    },
+    {
+      "learning_rate": 0.1,
+      "max_iter": 200,
+      "max_leaf_nodes": 31,
+      "validation_mae": 1.8505618136433148
+    }
+  ],
+  "validation_mae_improvement_pct": 0.8382172588011123,
+  "test_mae_improvement_pct": 0.8428658442983421
+}

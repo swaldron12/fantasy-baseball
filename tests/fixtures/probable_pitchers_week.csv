@@ -1,0 +1,3 @@
+week_start,game_date,team,opponent,home_away,opposing_probable_pitcher_name,opposing_probable_pitcher_id,opposing_probable_pitcher_throws,own_probable_pitcher_name,own_probable_pitcher_id,own_probable_pitcher_throws
+2026-05-18,2026-05-18,NYY,BOS,away,Example BOS Starter,,R,Example NYY Starter,,R
+2026-05-18,2026-05-18,BOS,NYY,home,Example NYY Starter,,R,Example BOS Starter,,R

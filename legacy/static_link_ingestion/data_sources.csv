@@ -1,0 +1,15 @@
+dataset_name,raw_filename,source_type,url,enabled,notes
+batters_standard_05_06,batters_standard_05_06.csv,url_csv,,false,Optional static Fangraphs standard batting CSV export.
+batters_advanced_05_06,batters_advanced_05_06.csv,url_csv,,false,Optional static Fangraphs advanced batting CSV export.
+batters_statcast_05_06,batters_statcast_05_06.csv,url_csv,,false,Optional static Fangraphs Statcast batting CSV export.
+batters_splits_lhp_05_06,batters_splits_lhp_05_06.csv,url_csv,,false,Paste the static Fangraphs hitter vs LHP split export URL here.
+batters_splits_rhp_05_06,batters_splits_rhp_05_06.csv,url_csv,,false,Paste the static Fangraphs hitter vs RHP split export URL here.
+pitchers_standard_05_06,pitchers_standard_05_06.csv,url_csv,,false,Optional static Fangraphs standard pitching CSV export.
+pitchers_advanced_05_06,pitchers_advanced_05_06.csv,url_csv,,false,Optional static Fangraphs advanced pitching CSV export.
+pitchers_statcast_05_06,pitchers_statcast_05_06.csv,url_csv,,false,Optional static Fangraphs Statcast pitching CSV export.
+pitchers_split_lhh_05_06,pitchers_split_lhh_05_06.csv,url_csv,,false,Paste the static Fangraphs pitcher vs LHH split export URL here.
+pitchers_split_rhh_05_06,pitchers_split_rhh_05_06.csv,url_csv,,false,Paste the static Fangraphs pitcher vs RHH split export URL here.
+team_batting_lhp_05_06,team_batting_lhp_05_06.csv,url_csv,,false,Paste the static Fangraphs team batting vs LHP export URL here.
+team_batting_rhp_05_06,team_batting_rhp_05_06.csv,url_csv,,false,Paste the static Fangraphs team batting vs RHP export URL here.
+zips_batters_ros,zips_batters_ros.csv,url_csv,,false,Optional static ZiPS batter rest-of-season CSV export.
+zips_pitchers_ros,zips_pitchers_ros.csv,url_csv,,false,Optional static ZiPS pitcher rest-of-season CSV export.
